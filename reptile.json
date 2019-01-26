@@ -1,0 +1,26 @@
+[
+    {
+        "hint":"largest snake",
+        "word":"anaconda"
+    },
+    {
+        "hint":"largest living lizard",
+        "word":"komodo dragon"
+    },
+    {
+        "hint":"second-longest venomous snake",
+        "word":"black mamba"
+    },
+    {
+        "hint":"large snake",
+        "word":"python"
+    },
+    {
+        "hint":"exoskeleton",
+        "word":"turtle"
+    },
+    {
+        "hint":"can change color",
+        "word":"chameleon"
+    }
+]
