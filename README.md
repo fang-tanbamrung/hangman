@@ -1,4 +1,4 @@
-## for Thai
+## For Thai
 #### การ run program
 1. ลง python2.7(lib : json, termcolor)
 2. เข้า directory ที่ไฟล์ hangman.py อยู่
@@ -8,6 +8,7 @@
     ```
 #### การเพิ่มคำศัพท์
 1. เพิ่มไฟล์ตามชื่อหมวดหมู่.json แล้วเพิ่มข้อมูลในรูปแบบ
+    ```bash
     [
         {
             "hint":"คำใบ้1",
@@ -18,6 +19,7 @@
             "word":"คำศัพท์2"
         }
     ]
+    ```
 
 2. เพิ่มชื่อหมวดหมู่ในไฟล์ category.json ในรูปแบบ
     {
@@ -28,7 +30,7 @@
         ]
     }
 
-## for English
+## For English
 ####  run program
 1. install python2.7(lib : json, termcolor)
 2. on hangman.py directory
